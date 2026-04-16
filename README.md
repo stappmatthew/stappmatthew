@@ -6,4 +6,4 @@ Math & Business Analytics student with a Programming and Computation Minor at th
 
 Currently working through Karpathy's neural networks series (micrograd → makemore → GPT).
 
-Reach me: mstapp@utexas.edu · linkedin.com/in/matthew-stapp
+Reach me: mstapp@utexas.edu · www.linkedin.com/in/matthew-stapp
